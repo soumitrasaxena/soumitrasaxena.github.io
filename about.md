@@ -15,7 +15,7 @@ Hello. I am Soumitra Saxena (pronounced Saw-me-tr). I am 24, and I specialize in
 ## The Interesting part -
 - <a href="https://en.wikipedia.org/wiki/The_Boss_Baby" target="_blank">The Boss Baby</a>, the 6th highest grossing movie of 2017, was my first Hollywood credit as a TD. Check out the awesome trailer <a href="https://www.youtube.com/watch?v=h24gEn3y82Q" target="_blank">here.</a>
 - I have a <a href="{{ site.baseurl }}/public/awesome.jpg" target="_blank">certificate</a> that says that I am awesome. The folks at DreamWorks were just too kind.
-- When I was at DreamWorks, I brought down their cross site file management system by delivering too much data too quickly. I'm quite proud of that feat.
+- When I was at DreamWorks, I brought down their cross site file management system by delivering too much data too quickly. Learned a lot from that.
 - I believe Mac De Marco is one of the best musical acts to come out of this decade, and that Richard Linklater is the best director of all time. Want to debate me? You're on.
 - I design stuff too! <Shameless self promotion> Check out my <a href="https://www.behance.net/SoumitraSaxena" target="_blank">Behance page!</a>
 
