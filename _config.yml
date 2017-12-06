@@ -1,0 +1,47 @@
+# Built with Jekyll 3.2.0
+
+# Setup
+title:               Passing out Pieces
+tagline:             'Hell of a story, or is it boring?'
+description:         'Can’t claim to care, never been reluctant to share.'
+url:                 'http://soumitrasaxena.github.io'
+baseurl:             'http://soumitrasaxena.com'
+
+# About/contact
+author:
+  name:              Soumitra Saxena
+  url:               https://twitter.com/elotroalex
+  email:             soumitrasaxena1993@gmail.com
+
+# Permalinks
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Custom vars
+version:             0.0.1
+
+# Exclusions from the final site
+exclude: [optional, vendor, documentation, credits, search]
+
+
