@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello. I am Soumitra Saxena (pronounced Saw-me-tr). I am 23, and I specialize in tackling challenges related to animation pipelines, and making them better and a lot more artist friendly. I'm currently working as a Pipeline TD with <a href="http://www.mikrosimage-animation.eu/" target="_blank">Mikros Image Animation.</a>
+Hello. I am Soumitra Saxena (pronounced Saw-me-tr). I am 24, and I specialize in tackling challenges related to animation pipelines, and making them better and a lot more artist friendly. I'm currently working as a Pipeline TD with <a href="http://www.mikrosimage-animation.eu/" target="_blank">Mikros Image Animation.</a>
 
 
 ## The Boring Part -
